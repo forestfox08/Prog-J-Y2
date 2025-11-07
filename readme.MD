@@ -4,7 +4,7 @@
 
 Opdracht 1 
 
-Script[https://github.com/forestfox08/Prog-P5-J/tree/master/Assets/Scripts/Opdracht1]
+[Script]https://github.com/forestfox08/Prog-P5-J/tree/master/Assets/Scripts/Opdracht1
 
 # Opdracht 2
 
@@ -12,7 +12,7 @@ Script[https://github.com/forestfox08/Prog-P5-J/tree/master/Assets/Scripts/Opdra
 
 Opdracht 2
 
-Script[https://github.com/forestfox08/Prog-P5-J/tree/master/Assets/Scripts/Opdracht2]
+[Script]https://github.com/forestfox08/Prog-P5-J/tree/master/Assets/Scripts/Opdracht2
 
 # Opdracht 3
 
@@ -20,7 +20,7 @@ Script[https://github.com/forestfox08/Prog-P5-J/tree/master/Assets/Scripts/Opdra
 
 Opdracht 3
 
-Script[https://github.com/forestfox08/Prog-P5-J/tree/master/Assets/Scripts/Opdracht3]
+[Script]https://github.com/forestfox08/Prog-P5-J/tree/master/Assets/Scripts/Opdracht3
 
 # Opdracht 4
 
@@ -32,7 +32,7 @@ Scoreboard staat niet op de gif maar dat is nu gefixt!
 
 Opdracht 4
 
-Script[https://github.com/forestfox08/Prog-P5-J/tree/master/Assets/Scripts/Opdracht4]
+[Script]https://github.com/forestfox08/Prog-P5-J/tree/master/Assets/Scripts/Opdracht4
 
 # Opdracht 5
 
