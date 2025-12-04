@@ -49,7 +49,6 @@ Heb gekeken wat het was maar kon het probleem niet identificeren via breakpoints
 
 <img src="">
 
-<<<<<<< HEAD
 Hier zie je opdracht 1, --- TBD ---
 
 # Opdracht 2
@@ -213,22 +212,7 @@ classDiagram
         +void B_Level1()
         +void B_Backbutton()
     }
-    
-    EnemyHealth <|-- MonoBehaviour
-    EnemyMovement <|-- MonoBehaviour
-    EnemySpawning <|-- MonoBehaviour
-    PathManager <|-- MonoBehaviour
-    Tower <|-- MonoBehaviour
-    Projectile <|-- MonoBehaviour
-    BuyTower <|-- MonoBehaviour
     TowerInformation <|-- ScriptableObject
-    MoneyManager <|-- MonoBehaviour
-    PlayerHealth <|-- MonoBehaviour
-    HealthUI <|-- MonoBehaviour
-    PauseMenu <|-- MonoBehaviour
-    StoreAndBuild <|-- MonoBehaviour
-    MenuHandlerScript <|-- MonoBehaviour
-    LevelMenuHandler <|-- MonoBehaviour
     
     EnemyMovement --> PlayerHealth
     EnemyMovement --> PathManager
@@ -239,9 +223,3 @@ classDiagram
     TowerInformation --> TowerSpeed
 
 ```
-=======
-
-Hier zie je opdracht 1, --- TBD ---
-
-
->>>>>>> 45d60fa3ae0cdd662e2e82d7b8213031bde6abf0
