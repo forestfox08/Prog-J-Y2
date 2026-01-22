@@ -229,7 +229,7 @@ classDiagram
     TowerInformation --> TowerSpeed
 
 ```
-Opdracht 7
+# Opdracht 7
 ```C#
 public bool IsPlayerReadyToAttack(Player player)
 {
@@ -272,4 +272,5 @@ public bool IsPlayerReadyToAttack(Player player)
     return true;
 
 ```
+
 
