@@ -55,7 +55,7 @@ controls:
 ASD om de objects te adden
 QWE om objects weg te halen
 
-[Script]()
+[Script](https://github.com/forestfox08/Prog-J-Y2/tree/master/Assets/Scripts/P6/Opdracht%201)
 
 # Opdracht 2
 
