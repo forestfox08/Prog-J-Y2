@@ -47,9 +47,15 @@ Heb gekeken wat het was maar kon het probleem niet identificeren via breakpoints
 
 # Opdracht 1
 
-<img src="">
+<img src="./Images/w pickups.gif">
 
-Hier zie je opdracht 1, --- TBD ---
+Opdracht 1 af
+
+controls:
+ASD om de objects te adden
+QWE om objects weg te halen
+
+[Script]()
 
 # Opdracht 2
 
