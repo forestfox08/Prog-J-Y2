@@ -244,6 +244,7 @@ classDiagram
 
 # Opdracht 7
 
+(In de les gemaakt(Online))
 ```C#
 public bool IsPlayerReadyToAttack(Player player)
 {
