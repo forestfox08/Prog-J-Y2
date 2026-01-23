@@ -235,8 +235,15 @@ classDiagram
 
 [Script](https://github.com/forestfox08/Prog-J-Y2/tree/master/Assets/Scripts/P6/Opdracht%203)
 
-```
+# Opdracht 4
+
+<img src="./Images/CoinCollectfrfr.gif">
+
+[Script](https://github.com/forestfox08/Prog-J-Y2/tree/master/Assets/Scripts/P6/Opdracht%204)
+
+
 # Opdracht 7
+
 ```C#
 public bool IsPlayerReadyToAttack(Player player)
 {
