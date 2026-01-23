@@ -237,6 +237,8 @@ classDiagram
 
 # Opdracht 4
 
+Gedaan met Delegates (zoals gevraagd in de opdracht)
+
 <img src="./Images/CoinCollectfrfr.gif">
 
 [Script](https://github.com/forestfox08/Prog-J-Y2/tree/master/Assets/Scripts/P6/Opdracht%204)
@@ -287,5 +289,6 @@ public bool IsPlayerReadyToAttack(Player player)
     return true;
 
 ```
+
 
 
