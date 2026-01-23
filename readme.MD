@@ -241,6 +241,15 @@ classDiagram
 
 [Script](https://github.com/forestfox08/Prog-J-Y2/tree/master/Assets/Scripts/P6/Opdracht%204)
 
+# Opdracht 5 
+
+<img src="./Images/opdracht 5.gif">
+
+In deze opdracht heb ik met gebruik van scriptable object data collectible items gemaakt. Als je de item op pakt dan laat de Console de value zien en de message van de collectible item (Message kan je veranderen met scriptable object data)
+
+yay!!! :D
+
+[Script](https://github.com/forestfox08/Prog-J-Y2/tree/master/Assets/Scripts/P6/Opdracht%205)
 
 # Opdracht 7
 
