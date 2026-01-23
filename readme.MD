@@ -227,6 +227,13 @@ classDiagram
     HealthUI --> PlayerHealth
     StoreAndBuild --> TowerInformation
     TowerInformation --> TowerSpeed
+```
+
+# Opdracht 3
+
+<img src="./Images/inventory respect moment.gif">
+
+[Script]
 
 ```
 # Opdracht 7
