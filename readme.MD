@@ -233,7 +233,7 @@ classDiagram
 
 <img src="./Images/inventory respect moment.gif">
 
-[Script]
+[Script](https://github.com/forestfox08/Prog-J-Y2/tree/master/Assets/Scripts/P6/Opdracht%203)
 
 ```
 # Opdracht 7
