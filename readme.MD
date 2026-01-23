@@ -253,6 +253,14 @@ yay!!! :D
 
 [Script](https://github.com/forestfox08/Prog-J-Y2/tree/master/Assets/Scripts/P6/Opdracht%205)
 
+# Opdracht 6 
+
+<img src="./Images/op6.gif">
+
+[Script](https://github.com/forestfox08/Prog-J-Y2/tree/master/Assets/Scripts/P6/Opdracht%206)
+
+Opdracht 6
+
 # Opdracht 7
 
 (In de les gemaakt(Online))
